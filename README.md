@@ -1,2 +1,4 @@
 # legendary-goggles
-Just a test... of renaming the master branch.
+Just a t<b>est</b>... of renaming the master branch.
+
+Now I've diverged.
